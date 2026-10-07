@@ -2,7 +2,6 @@
 
 Submitted by: Jyoti
 Date: 7-10-2026
-email: jyotisk573@gmail.com
 
 A small web app for managing items, item types and purchase orders, with stock tracking. The backend is Node.js with Express, the database is MySQL, and the frontend is plain HTML, CSS and JavaScript. Express also serves the frontend, so there is only one server to start.
 
