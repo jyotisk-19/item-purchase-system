@@ -167,7 +167,7 @@ Purchase details after saving
 
 ![Purchase details](screenshots/05-purchase-details.png)
 
-Stock after the purchase (Laptop 10 -> 8, Mouse 20 -> 15, Chair 15 -> 12)
+Stock after the purchase 
 
 ![Stock reduced](screenshots/06-stock-reduced.png)
 
